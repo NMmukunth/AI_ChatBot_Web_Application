@@ -2,9 +2,7 @@
 
 Welcome to the **AI Chatbot Web Application**! This project features a responsive chatbot powered by the **Gemini AI API**, crafted entirely with **HTML**, **CSS**, and **JavaScript**. 🌟
 
-<h4>Project contributors :</h4>
 
- * [ MITHUN S](https://github.com/ST-MITHUN) <br/>
 
 ## 🚀 Features
 
