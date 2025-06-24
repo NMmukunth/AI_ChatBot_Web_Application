@@ -23,7 +23,7 @@ Clear Chat Option – Wipe history with a single click.
 
 -CSS
 
--JavaScript
+-JavaScript hi
 
 -Gemini AI API
 
